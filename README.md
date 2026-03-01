@@ -9,7 +9,7 @@ I created this repo to track my consistency and document my daily progress throu
 
 ## 🎯 Goal
 - Solve **1500+ DSA problems**
-- Build a strong **Codeforces profile**
+- Build a strong **Leetcode & Codeforces profile**
 - Grow into a solid **Developer**
 
 ## 📌 Plan
