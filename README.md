@@ -13,7 +13,9 @@ Grow into a solid Developer
 
 📌 Plan
 For the first 4-5 months, I'll be fully focused on DSA, grinding problems daily and building strong fundamentals. After that I'll shift towards Development — but DSA never stops, I'll keep solving alongside it.
-Every single day will be documented here. No gaps, no excuses.
+Every single day will be documented here. 
+No gaps, no excuses.
+
 🛠️ Tech
 
 Language: Java (DSA)
