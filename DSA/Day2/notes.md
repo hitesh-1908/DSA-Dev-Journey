@@ -28,7 +28,9 @@
 
 ### 🔀 Conditional Statements
 **if-else** — executes block based on condition
+
 **Ternary Operator** — shorthand for if-else → `condition ? true : false`
+
 **Switch** — cleaner alternative to multiple if-else chains
 
 ---
