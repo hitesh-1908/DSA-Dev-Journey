@@ -37,7 +37,9 @@
 
 ### 🔁 Loops
 **While loop** — runs while condition is true (condition checked first)
+
 **For loop** — best when number of iterations is known
+
 **Do-While loop** — runs at least once (condition checked after)
 
 ---
