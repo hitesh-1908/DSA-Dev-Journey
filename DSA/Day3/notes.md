@@ -21,10 +21,7 @@
 ### Pattern - 2
 | # | Problem |
 |---|---------|
-| 5 | Hollow Rectangle Pattern (*****
-*   *
-*   *
-*****) |
+| 5 | Hollow Rectangle Pattern (*****, *   *, *   *, *****) |
 | 6 | Inverted Half Pyramid (12345, 1234, 123, 12, 1) |
 | 7 | Floyd's Triangle (1 / 2 3 / 4 5 6 / 7 8 9 10 / 11 12 13 14 15) |
 
