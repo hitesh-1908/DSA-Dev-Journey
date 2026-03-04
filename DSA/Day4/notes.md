@@ -14,6 +14,7 @@
 **Functions/Methods** — a block of code that performs a specific task and can be reused
 
 **Normal Methods** — no parameters, just called directly
+
 **Parameterized Methods** — accept inputs (parameters) to work with dynamic values
 
 **Call by Value** — Java always passes a copy of the value to the method, original variable is never affected
@@ -41,6 +42,10 @@
 | 2 | Prime numbers in a Range |
 | 3 | Binary to Decimal |
 | 4 | Decimal to Binary |
+| 5 | Average of Three Numbers |
+| 6 | isEven method — returns true if number is even, false otherwise |
+| 7 | Palindrome Check (121 is palindrome, 321 is not) |
+| 8 | Sum of Digits in an Integer |
 
 ---
 *Day 4 done. Functions & Methods unlocked.* ✅
