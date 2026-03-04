@@ -24,6 +24,7 @@
 - Once the method finishes, the stack frame is destroyed automatically
 
 **Inbuilt Methods** — provided by Java (e.g. `Math.pow()`, `Math.sqrt()`, `String.length()`)
+
 **User Defined Methods** — created by the programmer for specific tasks
 
 **Function Overloading** — same method name but different parameters (different type or number)
