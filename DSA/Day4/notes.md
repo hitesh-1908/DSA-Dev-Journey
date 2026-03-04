@@ -31,6 +31,7 @@
 - Java decides which method to call based on the arguments passed
 
 **Method Scope** — variable declared inside a method is only accessible within that method
+
 **Block Scope** — variable declared inside a block `{}` is only accessible within that block
 
 ## 💻 Problems Solved
