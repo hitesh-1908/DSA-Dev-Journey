@@ -7,6 +7,7 @@
 - Call by Value
 - Inbuilt & User Defined Methods
 - Function Overloading
+- Method Scope & Block Scope
 
 ## 🧠 Key Learnings
 
@@ -28,11 +29,16 @@
 **Function Overloading** — same method name but different parameters (different type or number)
 - Java decides which method to call based on the arguments passed
 
+**Method Scope** — variable declared inside a method is only accessible within that method
+**Block Scope** — variable declared inside a block `{}` is only accessible within that block
+
 ## 💻 Problems Solved
 | # | Problem |
 |---|---------|
 | 1 | Binomial Coefficient |
 | 2 | Prime numbers in a Range |
+| 3 | Binary to Decimal |
+| 4 | Decimal to Binary |
 
 ---
 *Day 4 done. Functions & Methods unlocked.* ✅
