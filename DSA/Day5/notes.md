@@ -7,6 +7,7 @@
 * Inverted Half Pyramid with Numbers
 * Floyd's Triangle
 * 0–1 Triangle Pattern
+* Butterfly Pattern
 
 ## 🧠 Key Learnings
 
@@ -15,6 +16,7 @@
 * Understood how spaces and stars combine to rotate patterns.
 * Used row-based logic to generate number patterns.
 * Implemented alternating patterns using conditional logic.
+* Learned how symmetric patterns are created using two mirrored halves.
 
 ## 💻 Problems Solved
 
@@ -25,6 +27,7 @@
 | 3 | Inverted Half Pyramid with Numbers | InvertedHalfPyramidNumbers.java |
 | 4 | Floyd's Triangle                   | FloydsTriangle.java             |
 | 5 | 0–1 Triangle Pattern               | ZeroOneTriangle.java            |
+| 6 | Butterfly Pattern                  | ButterflyPattern.java           |
 
 ---
 
@@ -77,6 +80,19 @@
 101
 0101
 10101
+```
+
+**Butterfly Pattern**
+
+```
+*             *
+* *         * *
+* * *     * * *
+* * * * * * * *
+* * * * * * * *
+* * *     * * *
+* *         * *
+*             *
 ```
 
 ---
