@@ -25,11 +25,11 @@
 **Hollow Rectangle Pattern**
 
 ```
-****
-*  *
-*  *
-*  *
-****
+******
+*    *
+*    *
+*    *
+******
 ```
 
 **Inverted & Rotated Half Pyramid**
