@@ -8,6 +8,8 @@
 * Floyd's Triangle
 * 0–1 Triangle Pattern
 * Butterfly Pattern
+* Solid Rhombus
+* Hollow Rhombus
 
 ## 🧠 Key Learnings
 
@@ -17,6 +19,7 @@
 * Used row-based logic to generate number patterns.
 * Implemented alternating patterns using conditional logic.
 * Learned how symmetric patterns are created using two mirrored halves.
+* Understood how spaces are used to shift patterns diagonally (rhombus patterns).
 
 ## 💻 Problems Solved
 
@@ -28,6 +31,8 @@
 | 4 | Floyd's Triangle                   | FloydsTriangle.java             |
 | 5 | 0–1 Triangle Pattern               | ZeroOneTriangle.java            |
 | 6 | Butterfly Pattern                  | ButterflyPattern.java           |
+| 7 | Solid Rhombus                      | SolidRhombus.java               |
+| 8 | Hollow Rhombus                     | HollowRhombus.java              |
 
 ---
 
@@ -93,6 +98,26 @@
 * * *     * * *
 * *         * *
 *             *
+```
+
+**Solid Rhombus**
+
+```
+    *****
+   *****
+  *****
+ *****
+*****
+```
+
+**Hollow Rhombus**
+
+```
+    *****
+   *   *
+  *   *
+ *   *
+*****
 ```
 
 ---
