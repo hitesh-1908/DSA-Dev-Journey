@@ -1,5 +1,9 @@
 # Day 6 — Arrays
 
+## 📖 Definition
+
+An array is a data structure that stores multiple values of the same data type in a single variable. The elements are stored in contiguous memory locations and are accessed using an index.
+
 ## 📚 Topics Covered
 
 * Definition & Introduction
@@ -13,6 +17,7 @@
 * Understood how to create arrays in Java.
 * Practiced updating values at specific indexes in an array.
 * Learned the basic concept of deleting elements from an array.
+
 
 ---
 
