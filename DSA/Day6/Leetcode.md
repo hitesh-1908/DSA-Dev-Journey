@@ -1,10 +1,8 @@
 ## Check If Binary String Has at Most One Segment of Ones (Easy)
 
+
 📅 **LeetCode Daily Problem**
-
 Today I solved a **LeetCode Daily easy problem** based on **strings and simple iteration**.
-
-Today I solved a LeetCode **easy** problem based on **strings and simple iteration**.
 
 The logic for solving this problem came from what I learned yesterday about **loops and bit patterns**.
 
