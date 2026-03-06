@@ -10,6 +10,7 @@
 * Butterfly Pattern
 * Solid Rhombus
 * Hollow Rhombus
+* Diamond Pattern
 
 ## 🧠 Key Learnings
 
@@ -20,6 +21,7 @@
 * Implemented alternating patterns using conditional logic.
 * Learned how symmetric patterns are created using two mirrored halves.
 * Understood how spaces are used to shift patterns diagonally (rhombus patterns).
+* Learned how upper and lower halves combine to create complex symmetric patterns like the diamond.
 
 ## 💻 Problems Solved
 
@@ -33,6 +35,7 @@
 | 6 | Butterfly Pattern                  | ButterflyPattern.java           |
 | 7 | Solid Rhombus                      | SolidRhombus.java               |
 | 8 | Hollow Rhombus                     | HollowRhombus.java              |
+| 9 | Diamond Pattern                    | DiamondPattern.java             |
 
 ---
 
@@ -118,6 +121,27 @@
   *   *
  *   *
 *****
+```
+
+**Diamond Pattern**
+
+```
+       *
+      ***
+     *****
+    *******
+   *********
+  ***********
+ *************
+***************
+***************
+ *************
+  ***********
+   *********
+    *******
+     *****
+      ***
+       *
 ```
 
 ---
