@@ -35,4 +35,4 @@ An array is a data structure that stores multiple values of the same data type i
 
 ---
 
-*Day 6 done. Arrays unlocked.* ✅
+*Day 6 done. Arrays understood.* ✅
