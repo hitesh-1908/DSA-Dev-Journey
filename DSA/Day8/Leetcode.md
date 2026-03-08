@@ -37,7 +37,7 @@ start > end
 
 At this point, the **start pointer represents the correct position where the target should be inserted**.
 
-So instead of returning `-1`, we return `start`.
+So instead of returning `-1`, I have return `start`.
 
 ### Code
 
