@@ -1,4 +1,4 @@
-class KadanesAlgorithm {
+class MaxSubarrayKadane {
     public static void kadanesAlgorithm(int nums[])
     {
         //For MaxSum
