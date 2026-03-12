@@ -135,5 +135,3 @@ Note: `Collections.reverseOrder()` works with **Integer arrays**, not primitive 
 ---
 
 *Day 11 done. Sorting concepts getting stronger.* ✅
-
-*Day 11 done. Sorting concepts getting stronger.* ✅
