@@ -6,6 +6,10 @@
 * Selection Sort
 * Insertion Sort
 * Counting Sort
+* Inbuilt Sort
+
+  * For Ascending Order
+  * For Descending Order
 
 ## 🧠 Key Learnings
 
@@ -67,7 +71,7 @@ Worst Case Time Complexity
 O(n²)
 ```
 
-This algorithm is efficient for **small datasets and nearly sorted arrays**.
+This algorithm works well for **small datasets and nearly sorted arrays**.
 
 ---
 
@@ -77,9 +81,7 @@ Counting Sort is a **non-comparison based sorting algorithm**.
 
 Instead of comparing elements, it counts the number of occurrences of each value and uses that information to place elements in the correct position.
 
-It works best when:
-
-* The range of input values is **not very large**.
+It works best when the **range of input values is not very large**.
 
 Time Complexity
 
@@ -94,4 +96,44 @@ Where:
 
 ---
 
-*Day 11 done. Sorting algorithms unlocked.* ✅
+### Inbuilt Sort
+
+Java also provides an **inbuilt sorting method** using `Arrays.sort()` which internally uses optimized sorting algorithms.
+
+#### Ascending Order
+
+**Method 1**
+
+```id="2a6a5y"
+Arrays.sort(arr);
+```
+
+**Method 2 (Sorting a specific range)**
+
+```id="b5l6q9"
+Arrays.sort(arr, startIndex, endIndex);
+```
+
+---
+
+#### Descending Order
+
+**Method 1**
+
+```id="t6u5lp"
+Arrays.sort(arr, Collections.reverseOrder());
+```
+
+**Method 2 (Descending in a specific range)**
+
+```id="u4wmp4"
+Arrays.sort(arr, startIndex, endIndex, Collections.reverseOrder());
+```
+
+Note: `Collections.reverseOrder()` works with **Integer arrays**, not primitive `int[]`.
+
+---
+
+*Day 11 done. Sorting concepts getting stronger.* ✅
+
+*Day 11 done. Sorting concepts getting stronger.* ✅
