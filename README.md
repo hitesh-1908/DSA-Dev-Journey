@@ -10,8 +10,10 @@ A public log of my journey in **Data Structures & Algorithms (Java)** and **full
 
 ## 🛠️ Tech Stack
 **Language:** Java
-**Full-stack:** Spring Boot, React, MySQL
-**Platforms:** LeetCode, Codeforces, GeeksforGeeks
+
+**Full-stack:** MERN, React, MySQL
+
+**Platforms:** LeetCode,  GeeksforGeeks
 
 ## 📊 Progress
 | Metric | Count |
