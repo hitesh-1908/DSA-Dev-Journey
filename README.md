@@ -22,3 +22,16 @@ A public log of my journey in **Data Structures & Algorithms (Java)** and **full
 | Current streak | 0 days |
 
 ## 📁 Structure
+```
+DSA-Dev-Journey/
+├── dsa/          # Solutions grouped by topic
+│   ├── arrays/
+│   ├── strings/
+│   ├── linkedlist/
+│   ├── stack-queue/
+│   ├── trees/
+│   ├── graphs/
+│   └── dp/
+├── projects/     # Full-stack projects
+└── notes/        # Daily notes and learnings
+```
