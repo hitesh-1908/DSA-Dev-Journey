@@ -1,2 +1,22 @@
-# DSA-Dev-Journey
-My DSA and development learning journey.
+# 🚀 DSA-Dev-Journey
+
+A public log of my journey in **Data Structures & Algorithms (Java)** and **full-stack development**, built one commit at a time.
+
+## 🎯 Goals
+- [ ] Solve **500+** DSA problems
+- [ ] Build a strong Codeforces profile
+- [ ] Build full-stack projects with Spring Boot, React and MySQL
+- [ ] Stay consistent: commit at least a few times every week
+
+## 🛠️ Tech Stack
+**Language:** Java
+**Full-stack:** Spring Boot, React, MySQL
+**Platforms:** LeetCode, Codeforces, GeeksforGeeks
+
+## 📊 Progress
+| Metric | Count |
+|--------|-------|
+| Problems solved | 0 / 500 |
+| Current streak | 0 days |
+
+## 📁 Structure
