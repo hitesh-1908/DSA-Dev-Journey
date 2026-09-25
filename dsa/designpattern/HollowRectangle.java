@@ -16,7 +16,7 @@ public class HollowRectangle {
             System.out.println();
         }
     }
-
+\
     static void main(String[] args) {
         hollowPattern(7,15);
     }
